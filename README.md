@@ -10,6 +10,8 @@
 
 - now lets bulid  the product controller based on our service of product
 
+- add the endpoint which will fetch product by id and name 
+
 - now setup the dto class
 
 - now provide me the list of the endpoint in the controller to test them in the postman and also give me the payload for testing 
